@@ -49,11 +49,14 @@ body {
   padding: 0px;
 }
 
-.main__task-item, .main__h3 {
+.main__task-item, 
+.main__h3 {
   list-style: none;
 }
 
-.main__checkbox-input, .main__text-input, .main__button{
+.main__checkbox-input, 
+.main__text-input, 
+.main__button{
   outline: none;
 }
 
