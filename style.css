@@ -37,7 +37,7 @@ body {
 .main__task-label {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .main__add-task-row {
@@ -141,7 +141,7 @@ body {
 }
 
 .main__task-item > .main__text-input {
-  width: 226px
+  width: 226px;
 }
 
 .main__delete-button:hover {
@@ -160,13 +160,13 @@ body {
 
 /* Completed */
 #completed-tasks .main__task-label {
-  text-decoration: line-through
+  text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
 .main__task-item .main__text-input {
-  display: none
+  display: none;
 }
 
 .main__task-item_edit-mode .main__text-input {
